@@ -1,3 +1,6 @@
+# ⚠️ WARNING this is just a funny experiment nothing is working until further notice
+# ⚠️ Do not be fooled by the README.md
+
 # fortran-unicode
 
 ## About
